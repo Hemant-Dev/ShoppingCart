@@ -3,5 +3,17 @@
 }
 
 #btn-add {
-    margin-top: 10px;
+    margin-top: 5px;
+}
+
+.badge {
+    border-radius: 10px;
+    color: black;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1;
+    padding: 3px 7px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
 }
